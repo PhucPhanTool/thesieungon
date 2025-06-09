@@ -1,0 +1,1 @@
+<?php echo 'Trang chính hoạt động'; ?>
