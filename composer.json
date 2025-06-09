@@ -1,0 +1,8 @@
+{
+  "name": "napthe/tool",
+  "description": "Tool nap the tu dong Render PHP",
+  "require": {},
+  "scripts": {
+    "start": "php -S 0.0.0.0:10000 -t public"
+  }
+}
